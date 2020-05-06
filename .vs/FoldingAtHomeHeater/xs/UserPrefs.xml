@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{0D59E6C1-77B7-48B2-8D31-8CBF2C5AB043}|Default">
+  <MonoDevelop.Ide.ItemProperties.FoldingAtHomeHeater PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FoldingAtHomeHeater/Program.cs">
+    <Files>
+      <File FileName="FoldingAtHomeHeater/Entites/WeatherResponse.cs" Line="17" Column="38" IsPinned="True" />
+      <File FileName="FoldingAtHomeHeater/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="FoldingAtHomeHeater/appsettings.json" Line="1" Column="1" />
+      <File FileName="FoldingAtHomeHeater/Entites/IAccWeather.cs" Line="1" Column="1" />
+      <File FileName="FoldingAtHomeHeater/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="FoldingAtHomeHeater/Program.cs" Line="1" Column="1" />
+      <File FileName="FoldingAtHomeHeater/Worker.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FoldingAtHomeHeater" expanded="True">
+            <Node name="FoldingAtHomeHeater" expanded="True">
+              <Node name="Entites" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>_context.PaidUsers.ToList();</Value>
+          <Value>_context.PaidUsers</Value>
+          <Value>_context.PaidUsers.ToList();</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
